@@ -1,43 +1,94 @@
-1. Melki Saber
-2. Développeur PHP Symfony
-3. Passionné par l'architecture logicielle et le développement backend robuste.
+<h1>👨‍💻 Développeur PHP Symfony</h1>
+<p>
+Je suis un développeur web doté de plus de six ans d’expérience professionnelle, spécialisé dans la conception et le développement d’applications web performantes et évolutives. Fort d’une formation rigoureuse en développement web, j’ai acquis une expertise approfondie dans la création de solutions numériques innovantes et robustes.
+</p>
+ <p>
+Véritable passionné du digital, j’ai choisi de me consacrer pleinement à ce domaine, en consolidant mes compétences à travers des expériences professionnelles enrichissantes et couronnées de succès. Mon parcours m’a permis de maîtriser les aspects techniques du développement tout en cultivant une approche orientée qualité et efficacité.
+</p>
 
-Expérience :
-- Poste : Développeur Symfony
-  Entreprise : DevTech
-  Période : 2022 - présent
-  Missions : API REST, API Platform, architecture hexagonale
+---
 
-- Poste : Développeur Fullstack
-  Entreprise : WebFactory
-  Période : 2020 - 2022
-  Missions : Symfony + Vue.js
+## 🚀 À propos de moi
+Développeur backend passionné avec une expertise en **PHP 8+ et Symfony**, je conçois des APIs performantes et maintenables. J'aime travailler sur des projets techniques, résoudre des problèmes complexes et créer des solutions fiables à long terme. Code propre, performance et qualité sont mes priorités.
 
-Compétences :
-4. PHP, JavaScript
-5. Symfony, API Platform, Node.js
-6. MySQL, PostgreSQL, MongoDB
-7. Docker, Git, Linux
-8. HTML, CSS, Vue.js
+---
 
-Projets :
-9. Parser MBOX en Symfony
-10. Application Sulu CMS multilingue
-11. API e-commerce avec API Platform
+## 🛠️ Compétences Techniques
 
-Formation :
-12. Licence Informatique - Université XYZ - 2020
+| Domaine | Compétences |
+|---------|-------------|
+| **Backend** | PHP 8+, Symfony, API Platform |
+| **Base de données** | MySQL, MariaDB, PostgreSQL |
+| **Outils Dev** | Docker, Git, GitHub Actions |
+| **Tests** | PHPUnit, Behat |
+| **Frontend (basics)** | Twig, HTML, CSS, Vue.js (basics) |
+| **Autres** | REST API, Clean Architecture, SOLID, Design Patterns |
 
-Certifications :
-13. Certif OpenClassrooms Symfony
+---
 
-Langues :
-14. Français (natif), Anglais (B2)
+## 💼 Expérience Professionnelle
 
-Centres d’intérêt :
-15. Tech, Open Source, Sport
+### 🔧 Développeur Backend PHP Symfony — *Entreprise XYZ*
+📍 Remote — 2023 - Présent  
+- Développement d’API REST avec **Symfony & API Platform**
+- Intégration avec services externes (Stripe, SendGrid…)
+- Mise en place de **tests unitaires** et CI/CD
+- Optimisation des performances SQL et cache HTTP
 
-Contact :
-16. email@example.com
-17. https://linkedin.com/in/username
-18. https://github.com/melkisaber
+### 💻 Développeur Web — *Freelance*
+📍 Remote — 2021 - 2023  
+- Création d’applications web sur mesure
+- Développement de backends Symfony + MySQL
+- Maintenance, debug et migration de projets
+
+---
+
+## 🏗️ Projets Réalisés
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| **Blog API** | API REST complète + Auth JWT | Symfony, API Platform |
+| **E-commerce** | Panier, paiement & dashboard admin | Symfony, MySQL |
+| **Real Estate App** | Listing de propriétés + filtre avancé | Symfony, Twig |
+
+---
+
+## 🎓 Formation
+- 🎓 **Master en Informatique** – Université ABC *(2020)*
+- 🎓 **Licence en Développement Web** – Institut XYZ *(2018)*
+
+---
+
+## ✅ Certifications
+- ✅ Symfony Certified Developer *(optionnel si t’en as pas, on enlève)*
+- ✅ PHP 8 Certification *(idem)*
+
+---
+
+## 🌍 Langues
+| Langue | Niveau |
+|--------|--------|
+| Français | ⭐⭐​⭐⭐​⭐​ (Natif) |
+| Anglais | ⭐⭐​⭐⭐​☆​ (Professionnel) |
+
+---
+
+## 📫 Contact
+📧 Email : ton.email@email.com  
+💼 LinkedIn : https://linkedin.com/in/tonprofil  
+🌐 Portfolio : https://tonportfolio.com  
+🐙 GitHub : https://github.com/tonusername  
+
+---
+
+## 💡 Centres d'intérêt
+💻 Open Source • 🧠 Algorithmes • 📚 Apprentissage continu • 🚀 Tech & Innovation  
+
+---
+
+### ✅ Actuellement disponible pour
+✔ Mission freelance  
+✔ CDI / Remote / Hybride  
+✔ Projets backend sérieux en Symfony
+
+---
