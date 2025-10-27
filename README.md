@@ -1,15 +1,17 @@
 <h1>👨‍💻 Développeur PHP Symfony</h1>
 <p>
-Je suis un développeur web doté de plus de six ans d’expérience professionnelle, spécialisé dans la conception et le développement d’applications web performantes et évolutives. Fort d’une formation rigoureuse en développement web, j’ai acquis une expertise approfondie dans la création de solutions numériques innovantes et robustes.
-</p>
- <p>
-Véritable passionné du digital, j’ai choisi de me consacrer pleinement à ce domaine, en consolidant mes compétences à travers des expériences professionnelles enrichissantes et couronnées de succès. Mon parcours m’a permis de maîtriser les aspects techniques du développement tout en cultivant une approche orientée qualité et efficacité.
+Passionné par le développement backend • API Platform • Architecture scalable • Clean Code
 </p>
 
 ---
 
 ## 🚀 À propos de moi
-Développeur backend passionné avec une expertise en **PHP 8+ et Symfony**, je conçois des APIs performantes et maintenables. J'aime travailler sur des projets techniques, résoudre des problèmes complexes et créer des solutions fiables à long terme. Code propre, performance et qualité sont mes priorités.
+<p>
+Je suis un développeur web doté de plus de six ans d’expérience professionnelle, spécialisé dans la conception et le développement d’applications web performantes et évolutives. Fort d’une formation rigoureuse en développement web, j’ai acquis une expertise approfondie dans la création de solutions numériques innovantes et robustes.
+</p>
+ <p>
+Véritable passionné du digital, j’ai choisi de me consacrer pleinement à ce domaine, en consolidant mes compétences à travers des expériences professionnelles enrichissantes et couronnées de succès. Mon parcours m’a permis de maîtriser les aspects techniques du développement tout en cultivant une approche orientée qualité et efficacité.
+</p>
 
 ---
 
